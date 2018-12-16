@@ -1,0 +1,7 @@
+E:\俞边炯\c#练习\source\repos\function_for_recursion_math\function_for_recursion_math\bin\Debug\function_for_recursion_math.exe.config
+E:\俞边炯\c#练习\source\repos\function_for_recursion_math\function_for_recursion_math\bin\Debug\function_for_recursion_math.exe
+E:\俞边炯\c#练习\source\repos\function_for_recursion_math\function_for_recursion_math\bin\Debug\function_for_recursion_math.pdb
+E:\俞边炯\c#练习\source\repos\function_for_recursion_math\function_for_recursion_math\obj\Debug\function_for_recursion_math.csprojAssemblyReference.cache
+E:\俞边炯\c#练习\source\repos\function_for_recursion_math\function_for_recursion_math\obj\Debug\function_for_recursion_math.csproj.CoreCompileInputs.cache
+E:\俞边炯\c#练习\source\repos\function_for_recursion_math\function_for_recursion_math\obj\Debug\function_for_recursion_math.exe
+E:\俞边炯\c#练习\source\repos\function_for_recursion_math\function_for_recursion_math\obj\Debug\function_for_recursion_math.pdb
